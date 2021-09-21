@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+    <orarend>
+        <ora id="GEIK-01" típus="elmélet">
+            <targy> "algoritmusok és vizsgálatuk"</targy>
+            <idopont>
+                <nap>Hétfő</nap>
+                <tol>8:00</tol>
+                <ig>12:00</ig>
+            </idopont>
+            <helyszin> A3 313 </helyszin>
+            <oktato> Dr. Házy Attila </oktato>
+            <szak>GÉIK</szak> 
+        </ora>
+        
+        <ora id="GEIK-02" típus="elmélet">
+            <targy> "Web technológiák"</targy>
+            <idopont>
+                <nap>Hétfő</nap>
+                <tol>12:00</tol>
+                <ig>14:00</ig>
+            </idopont>
+            <helyszin> XXX A1 III. em. 305 </helyszin>
+            <oktato> Agárdi Anita </oktato>
+            <szak>GÉIK</szak> 
+        </ora>
+
+        <ora id="GEIK-03" típus="elmélet">
+            <targy> "Mesterséges Intelligenciák"</targy>
+            <idopont>
+                <nap>Hétfő</nap>
+                <tol>14:00</tol>
+                <ig>17:00</ig>
+            </idopont>
+            <helyszin> XXXII. A1 magasfsz. </helyszin>
+            <oktato> Dr. Dudás László </oktato>
+            <szak>GÉIK</szak>
+        </ora>
+
+        <ora id="GEIK-04" típus="elmélet és gyakorlat">
+            <targy> "Adatkezelés XML-ben"</targy>
+            <idopont>
+                <nap>Kedd</nap>
+                <tol>12:00</tol>
+                <ig>16:00</ig>
+            </idopont>
+            <helyszin> I A2 fsz és In/103 </helyszin>
+            <oktato> Dr. Bednarik László </oktato>
+            <szak>GÉIK</szak>
+        </ora>
+
+        <ora  id="GEIK-05" típus="gyakorlat">
+            <targy> "Web technológiák"</targy>
+            <idopont>
+                <nap>Kedd</nap>
+                <tol>16:00</tol>
+                <ig>18:00</ig>
+            </idopont>
+            <helyszin> In/101 </helyszin>
+            <oktato> Agárdi Anita </oktato>
+            <szak>GÉIK</szak>
+        </ora>
+
+        <ora id="GEIK-06" típus="gyakorlat">
+            <targy> "Mesterséges Intelligenciák"</targy>
+            <idopont>
+                <nap>Szerda</nap>
+                <tol>13:00</tol>
+                <ig>14:00</ig>
+            </idopont>
+            <helyszin> In/15 fsz 15 </helyszin>
+            <oktato> Dr. Dudás László </oktato>
+            <szak>GÉIK</szak>
+        </ora>
+
+          <ora id="GEIK-07" típus="elmélet és gyakorlat">
+            <targy> "Vállalati informásiós rendszerek"</targy>
+            <idopont>
+                <nap>Szerda</nap>
+                <tol>16:00</tol>
+                <ig>20:00</ig>
+            </idopont>
+            <helyszin> X A1 II. em 218 és In/103 </helyszin>
+            <oktato> Dr. Sasvári Péter </oktato>
+            <szak>GÉIK</szak>
+        </ora>
+
+    </orarend>
+    
