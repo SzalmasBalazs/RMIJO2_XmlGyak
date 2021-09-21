@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+
+<konferencia>
+    <cím id="cm_4xm" nev="konferencia"/>
+    <hallgatók>
+        <hallgató nev ="péter" lakcím = "..." />
+    </hallgatók>
+    <előadó név ="név" adószám="133252143" lakcím = "..."/>
+
+</konferencia>
