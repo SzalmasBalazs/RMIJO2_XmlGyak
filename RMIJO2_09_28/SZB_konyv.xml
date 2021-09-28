@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+<!DOCTYPE konyvek SYSTEM "SZB_konyv.dtd">
+
+<konyvek>
+
+    <konyv id="bk_1">
+        <cim> Refactoring to Patterns </cim>
+        <szerzo>Joshua Kerievsky</szerzo>
+        <kiadasi_ev>2001</kiadasi_ev>
+        <kiado> Industrial Logic Inc.</kiado>
+    </konyv>
+    <konyv id="bk_2">
+        <cim>Clean Code: A Handbook of Agile Software Craftmanship</cim>
+        <szerzo>Robert C. Martin</szerzo>
+        <kiadasi_ev>2009</kiadasi_ev>
+        <kiado> Pearson Education</kiado>
+    </konyv>
+    <konyv id="bk_3">
+        <cim>Szoftvertesztelési alapismeretek</cim>
+        <szerzo>Fehér Krisztián</szerzo>
+        <kiadasi_ev>2016</kiadasi_ev>
+        <kiado>BBS-Info könyvk. és Inform. KFT.</kiado>
+    </konyv>
+
+</konyvek>
