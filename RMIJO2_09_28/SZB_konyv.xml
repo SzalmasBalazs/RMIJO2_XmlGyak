@@ -3,7 +3,6 @@
 <!DOCTYPE konyvek SYSTEM "SZB_konyv.dtd">
 
 <konyvek>
-
     <konyv id="bk_1">
         <cim> Refactoring to Patterns </cim>
         <szerzo>Joshua Kerievsky</szerzo>
@@ -17,10 +16,9 @@
         <kiado> Pearson Education</kiado>
     </konyv>
     <konyv id="bk_3">
-        <cim>Szoftvertesztelési alapismeretek</cim>
-        <szerzo>Fehér Krisztián</szerzo>
+        <cim>Szoftvertesztelesi alapismeretek</cim>
+        <szerzo>Feher Krisztian</szerzo>
         <kiadasi_ev>2016</kiadasi_ev>
-        <kiado>BBS-Info könyvk. és Inform. KFT.</kiado>
+        <kiado>BBS-Info konyvek. es Inform. KFT.</kiado>
     </konyv>
-
 </konyvek>
