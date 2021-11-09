@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+	<student id="01">
+		<keresztnév>Balázs </keresztnév>
+		<vezetéknév>Szalmás</vezetéknév>	
+		<Becenév>Balu</Becenév>
+		<Kor>20</Kor>
+	</student>
+	
+	<student id="02">
+		<keresztnév> Gábor </keresztnév>
+		<vezetéknév> Sándor</vezetéknév>	
+		<Becenév>Gabi</Becenév>
+		<Kor>22</Kor>
+	</student>
+	
+	<student id="02">
+		<keresztnév> Elemér </keresztnév>
+		<vezetéknév> Hahadi  </vezetéknév>	
+		<Becenév>El</Becenév>
+		<Kor>20</Kor>
+	</student>
+	
+</class>
