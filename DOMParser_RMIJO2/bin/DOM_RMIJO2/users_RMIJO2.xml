@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf=8"?>
+
+<users>
+    <user id="1">
+        <first_name name="Balázs"/>
+        <last_name name="Szalmás"/>
+        <profession name="Developer"/>				
+    </user>
+
+    <user id="2">
+        <first_name name="Péter"/>
+        <last_name name="Árpád"/>
+        <profession name="Developer"/>							
+    </user>
+    
+    <user id="3">
+        <first_name name="Sándor"/>
+        <last_name name="Gábor"/>
+        <profession name="Developer"/>							
+    </user>
+</users>
