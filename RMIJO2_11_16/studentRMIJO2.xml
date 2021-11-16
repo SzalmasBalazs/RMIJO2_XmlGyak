@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "studentRMIJO2.xsl"?>
+
+<class>
+   <student id="01">
+      <lastname>Fekete</lastname>
+      <firstname>Peter</firstname>
+      <nickname>Petya</nickname>
+      <marks>22</marks>
+   </student>
+   <student id="02">
+      <lastname>Kek</lastname>
+      <firstname>Dora</firstname>
+      <nickname>Dorka</nickname>
+      <marks>20</marks>
+   </student>
+   <student id="03">
+      <lastname>Zsoldos</lastname>s
+      <firstname>Andrea</firstname>
+      <nickname>Andi</nickname>
+      <marks>18</marks>
+   </student>
+</class>
