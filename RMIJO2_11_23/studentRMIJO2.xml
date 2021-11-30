@@ -6,21 +6,21 @@
       <lastname>Fekete</lastname>
       <firstname>Peter</firstname>
       <nickname>Petya</nickname>
-      <age>22</age>
       <salary>600000</salary>
+      <position>High</position>
    </student>
    <student id="02">
       <lastname>Kek</lastname>
       <firstname>Dora</firstname>
       <nickname>Dorka</nickname>
-      <age>20</age>
       <salary>550000</salary>
+      <position>High</position>
    </student>
    <student id="03">
       <lastname>Zsoldos</lastname>
       <firstname>Andrea</firstname>
       <nickname>Andi</nickname>
-      <age>18</age>
       <salary>450000</salary>
+      <position>Medium</position>
    </student>
 </class>

@@ -5,14 +5,15 @@
     <xsl:template match="/">
         <html>
             <body>
-                <h2>Students</h2>
+                <h1>Fokozat</h1>
                 <table border="1">
-                    <tr bgcolor="#9acd32">
+                    <tr bgcolor="#f7ff08">
                         <th>ID</th>
                         <th>First Name</th>
                         <th>Last Name</th>
                         <th>Nick Name</th>
-                        <th>Marks</th>
+                        <th>Salary</th>
+                        <th>Position</th>
                     </tr>
                     <xsl:for-each select="class/student">
                         <tr>
@@ -29,8 +30,12 @@
                                 <xsl:value-of select="nickname" />
                             </td>
                             <td>
-                                <xsl:value-of select="marks" />
+                                <xsl:value-of select="salary" />
                             </td>
+                            <td>
+                                <xsl:value-of select="position" />
+                            </td>
+
                         </tr>
                     </xsl:for-each>
                 </table>
