@@ -1,0 +1,22 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT szemeélyek (személy)+>
+<!ATTLIST szemeélyek
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT személy (nev,kor,varos)>
+<!ATTLIST személy
+  xmlns CDATA #FIXED ''
+  id NMTOKEN #REQUIRED>
+
+<!ELEMENT nev (#PCDATA)>
+<!ATTLIST nev
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT kor (#PCDATA)>
+<!ATTLIST kor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT varos (#PCDATA)>
+<!ATTLIST varos
+  xmlns CDATA #FIXED ''>

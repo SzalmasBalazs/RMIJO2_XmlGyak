@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<szemeélyek>
+    <személy id="sz1">
+        <nev>Balazs</nev>
+        <kor>20</kor>
+        <varos>Miskolc</varos>
+    </személy>
+    <személy id="sz2">
+        <nev>Ádám</nev>
+        <kor>21</kor>
+        <varos>Miskolc</varos>  
+    </személy>
+    <személy id="sz3">
+        <nev>Dani</nev>
+        <kor>23</kor>
+        <varos>Miskolc</varos>
+    </személy>
+</szemeélyek>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cards>
+    <card id="1">
+        <name>Szalmas Balazs</name>
+        <company id="c1">
+            <company_name>GEN WPM KFT</company_name>
+            <address id="a1">
+                <number>3526</number>
+                <city>Miskolc</city>
+                <street>Petofi</street>
+                <house>6</house>
+            </address>
+        </company>     
+        <phone_number>0630415136</phone_number>
+        <webpage>www.GENWPM.HU </webpage>
+        <position>CEO</position>
+        <email>szalamas.balazs@gmail.com</email>
+    </card>
+    <card id="2">
+        <name>Daniel Szabo</name>
+        <company id="c2">
+            <company_name>Szabo WPM.KFT</company_name>
+            <address id="a2">
+                <number>3600</number>
+                <city>Ozd</city>
+                <street>Gomori</street>
+                <house>44</house>
+            </address>
+        </company>
+        <phone_number>06704111111</phone_number>
+        <webpage>www.SzWPM.com </webpage>
+        <position>CEO</position>
+        <email>szadaegyetem@gmail.com</email>
+    </card>
+</cards>

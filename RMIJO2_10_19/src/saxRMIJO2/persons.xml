@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Persons>
+    <person id="1001">
+        <name>Balazs</name>
+        <age>21</age>
+        <city>Miskolc</city>
+    </person>
+    <person id="1002">
+        <name>Marcell</name>
+        <age>22</age>
+        <city>Miskolc</city>
+    </person>
+    <person id="1003">
+        <name>Sándor</name>
+        <age>25</age>
+        <city>Békéscsaba</city>
+    </person>
+</Persons>
